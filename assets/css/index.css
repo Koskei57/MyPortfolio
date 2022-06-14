@@ -32,3 +32,15 @@ nav ul li a {
     text-decoration: none;
     font-weight: bold;
 }
+
+.me {
+    position: relative;
+    top: -450px;
+    left: 300px;
+    width: 100%;
+    color: yellow;
+    padding: 100px 0px;
+    align-items: center;
+    justify-items: center;
+    margin: 0 auto;
+}
